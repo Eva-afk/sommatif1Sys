@@ -1,0 +1,5 @@
+echo "Buenos Dias"
+alias ls="ls -a"
+alias ll="ls -al"
+alias c="clear"
+alias grepc=" grep --colour always"
