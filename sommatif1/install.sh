@@ -1,3 +1,4 @@
+#!bin/bash
 su
 cp -T bash.rc ~
 cp -T gitconfig.git ~
