@@ -8,3 +8,4 @@ if[PS1 -eq '[\u@\h \W]\$']
     then
     PS1='[@\h \W]\$';
 fi
+export PATH="$HOME/bin:$PATH"
