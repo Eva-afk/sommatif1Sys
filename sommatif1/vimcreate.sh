@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 function creationvim
 {
     echo "le path est $1"

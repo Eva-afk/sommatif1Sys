@@ -1,3 +1,5 @@
-git config user.email "6315895@cstjean.qc.ca"
-git config user.name "Eva Beaulieu"
-git config core.editor "code --wait"
+[user]
+    email = 6315895@cstjean.qc.ca
+    name = Eva Beaulieu
+[core]
+    editor = nvim    
